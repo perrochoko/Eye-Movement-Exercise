@@ -1,4 +1,6 @@
-# Eye-Movement-Exercise
+## Titulo de este proyecto: Eye-Movement-Exercise
+
+## Descripción del proyecto
 Este es un ejercicio en el uso de CSS donde se consigue perseguir el puntero del mouse con la mirada de unos ojos puestos en el centro de la pantalla.
 
 
